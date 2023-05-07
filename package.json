@@ -1,0 +1,22 @@
+{
+  "name": "duplicates",
+  "version": "0.1.1",
+  "description": "Find duplicate files and folders in the filesystem",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerdgeneration/duplicates.git"
+  },
+  "author": "Mark Griffin <mark.griffin@linux.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nerdgeneration/duplicates/issues"
+  },
+  "homepage": "https://github.com/nerdgeneration/duplicates",
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
+}
